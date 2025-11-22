@@ -11,10 +11,7 @@
   Rise up to the top while remaining completely untouchable.
 </h2>
 
-## Contacts
-[Discord](https://discord.gg/5gJqhQmrdS)
-<br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+
 
 ## Usage
 1. Download the specific scripting utility of your choice.
