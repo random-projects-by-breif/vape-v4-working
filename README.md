@@ -21,6 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-br
 ```
 
 ## Possible Issues
+- not being in right game this only works in bedwars
 Half of the time its usually the scripting utility at fault, please make sure the utility meets certain quality standards such as.
 1. Supporting file functions & the debug library.
 2. Not implementing lua generated / half baked versions of such functions resulting in unintended behavior.
